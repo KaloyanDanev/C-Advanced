@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\Multidimensional Arrays - Lab.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\Multidimensional Arrays - Lab.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\Multidimensional Arrays - Lab.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\Multidimensional Arrays - Lab.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\Multidimensional Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\Multidimensional Arrays - Lab.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\Multidimensional Arrays - Lab.pdb

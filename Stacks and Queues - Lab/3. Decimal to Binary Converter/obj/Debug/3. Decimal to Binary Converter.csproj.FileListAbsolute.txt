@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\_3.Decimal_to_Binary_Converter.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\_3.Decimal_to_Binary_Converter.exe
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\_3.Decimal_to_Binary_Converter.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\3. Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\_3.Decimal_to_Binary_Converter.exe
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\_3.Decimal_to_Binary_Converter.pdb

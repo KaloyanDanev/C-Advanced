@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\bin\Debug\netcoreapp2.0\11. Parking System.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\bin\Debug\netcoreapp2.0\11. Parking System.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\bin\Debug\netcoreapp2.0\11. Parking System.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\bin\Debug\netcoreapp2.0\11. Parking System.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\bin\Debug\netcoreapp2.0\11. Parking System.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\obj\Debug\netcoreapp2.0\11. Parking System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\obj\Debug\netcoreapp2.0\11. Parking System.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\obj\Debug\netcoreapp2.0\11. Parking System.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\obj\Debug\netcoreapp2.0\11. Parking System.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\11. Parking System\obj\Debug\netcoreapp2.0\11. Parking System.pdb

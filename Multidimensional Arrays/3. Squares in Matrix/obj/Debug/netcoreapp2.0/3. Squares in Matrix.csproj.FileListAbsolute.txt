@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.pdb

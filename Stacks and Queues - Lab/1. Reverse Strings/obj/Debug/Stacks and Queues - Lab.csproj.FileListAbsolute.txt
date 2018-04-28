@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.exe
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\Stacks and Queues - Lab.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.exe
+c:\users\admin\documents\visual studio 2017\Projects\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\Stacks and Queues - Lab.pdb

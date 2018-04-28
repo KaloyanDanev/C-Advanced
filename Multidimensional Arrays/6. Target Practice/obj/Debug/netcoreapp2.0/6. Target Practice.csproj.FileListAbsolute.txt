@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.pdb

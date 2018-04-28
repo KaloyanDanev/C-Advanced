@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb

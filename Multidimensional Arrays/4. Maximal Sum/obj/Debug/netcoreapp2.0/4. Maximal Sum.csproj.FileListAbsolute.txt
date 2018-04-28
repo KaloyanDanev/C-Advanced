@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\bin\Debug\netcoreapp2.0\4. Maximal Sum.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\bin\Debug\netcoreapp2.0\4. Maximal Sum.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\bin\Debug\netcoreapp2.0\4. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\bin\Debug\netcoreapp2.0\4. Maximal Sum.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\bin\Debug\netcoreapp2.0\4. Maximal Sum.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Maximal Sum\obj\Debug\netcoreapp2.0\4. Maximal Sum.csprojResolveAssemblyReference.cache
